@@ -20,6 +20,7 @@ function App() {
         <h1> Edit from github</h1>
         <h1> Edit from vs code</h1>
         <h1>Curately vs code</h1>
+            <h1> Curately in github </h1>
       </header>
     </div>
   );
