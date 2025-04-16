@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
         <h1> Hello AWS </h1>
+            <h2> Initial commit </h2>
       </header>
     </div>
   );
